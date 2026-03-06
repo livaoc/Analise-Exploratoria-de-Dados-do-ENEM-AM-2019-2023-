@@ -24,5 +24,10 @@ O Amazonas apresentou um dos cenários mais críticos da pandemia no Brasil: com
 
 **Desigualdade de Desempenho entre escolas públicas e privadas:** Enquanto todos alunos independente da rede e situação socioeconômica obtiveram uma queda significativa na média e mediana das notas em 2021, os alunos de maior renda e de escola privada conseguiram uma recuperação estável com aumento constante da nota, contrastando com os alunos de baixa renda e escola pública que não obtiveram uma recuperação consistente em suas médias.
 
+![Gráfico de volume de inscritos](assets/inscritos_baixa_renda.png)
+![Gráfico de taxa de abstenção por acesso à internet](assets/taxa_abstencao_internet.png)
+![Taxa de mediana da média das notas dos candidatos](assets/mediana_media.png)
+
+
 ## Fonte dos dados:
 Foram coletados e filtrados os Microdados do ENEM (INEP) referente aos anos de 2019 a 2023, visando pegar apenas as colunas relevantes para o projeto e apenas alunos que realizaram a prova no estado Amazonas.
